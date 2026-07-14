@@ -1,0 +1,6 @@
+Name: adam
+Address: chitwan-1
+Contact: 980000223
+Name: abc
+Address: address abc
+Contact: 90898809809
